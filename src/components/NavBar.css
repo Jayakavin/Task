@@ -1,0 +1,29 @@
+.navbar {
+    background-color: black;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+    margin-right: 10px;
+    padding: 15px;
+  }
+  
+  .navbar li a {
+    text-decoration: none;
+    color: white;
+  }
+  .navbar li a:hover{
+    color: crimson;
+  }
+  body{
+    background: url('https://c4.wallpaperflare.com/wallpaper/89/177/75/artistic-minimalism-black-and-white-minimalist-wallpaper-preview.jpg');
+    
+    background-size: cover;
+  }
+  
